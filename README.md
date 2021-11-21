@@ -1,4 +1,4 @@
-<h1>Avtošola Larax<h1>
+<h1>Avtošola Larax</h1>
 
 <p><b>Avtor:</b> Alen Fekonja</p>
 
